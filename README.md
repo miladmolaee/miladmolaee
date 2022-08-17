@@ -65,3 +65,24 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=miladmolaee&show_icons=true&theme=synthwave" alt="Milad Molaee :: Profile Stats" />
 </p>
+
+<h1>
+Some of my projects:
+</h1>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=nethub)](https://github.com/miladmolaee/nethub)
+
+
+<h1>
+I teach:
+</h1>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=HTML-CSS-JS-Tutorial)](https://github.com/miladmolaee/HTML-CSS-JS-Tutorial)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
+
+
