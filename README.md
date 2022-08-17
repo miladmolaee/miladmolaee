@@ -13,7 +13,8 @@
 
 - 📫 Reach out to me: **miladmolaee@hotmail.com**
 
-- 📄 You can find my resume here: [Resume](https://github.com/miladmolaee/My-Resume/blob/main/resume.pdf)
+- 📄 You can find my resume here &ensp;&ensp;<img src="https://img.icons8.com/stickers/20/000000/hand-right.png"/> &ensp;[![Resume](https://img.shields.io/badge/My%20Resume-%100db70ed.svg?style=for-the-badgem&color=red)](https://github.com/miladmolaee/My-Resume/blob/main/resume.pdf)
+
 <br>
 <br>
 
