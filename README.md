@@ -1,39 +1,71 @@
 <h1 align="center">Hi, I am Milad Molaee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language, Application, and Tools</b>
+- 🔭 I’m currently working on [AI Interview Test](https://github.com/CodeTrophs/AI-Interview-Test)
 
+- 🌱 I’m currently learning **ML,DL,AI,Docker,Kubernetes**
 
-<p align="center">
+- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+
+- 📝 I regularly write articles on [blog.aryasoni.com](blog.aryasoni.com)
+
+- 💬 Ask me about **Javascript, Python, React.js, Node.js, ML, Debugging**
+
+- 📫 Reach out to me: **miladmolaee@hotmail.com**
+
+- 📄 You can find my resume here: [Resume](https://github.com/miladmolaee/My-Resume/blob/main/resume.pdf)
+<br>
+<br>
+
+## My Skills
+<br>
+
 <div>
+
+### - Languages:
+
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<br>
+
+### - Languages:
+
 <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<br>
+
+### - Tools and Technologies
+
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/sf-regular-filled/48/000000/github.png"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+<br>
+
+### - IDEs
+
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
 <img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
 <img src="https://img.icons8.com/color/48/000000/webstorm.png"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img src="https://img.icons8.com/sf-regular-filled/48/000000/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+
+
 </div>
 <br>
 <br>
@@ -79,7 +111,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 
 <p align="center">
-<a href="https://github.com/miladmolaee/">
+<a href="https://github.com/miladmolaee">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladmolaee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
@@ -105,8 +137,8 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 ## I Teach
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Web-DEV-Tutorial)](https://github.com/miladmolaee/Web-DEV-Tutorial)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Web-DEV-Tutorial)](https://github.com/miladmolaee/Web-DEV-Tutorial)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
 
 
