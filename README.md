@@ -1,14 +1,18 @@
 <h1 align="center">Hi, I am Milad Molaee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Language, Application, and Tools</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language, Application, and Tools</b>
 
 
 <p align="center">
 <div>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img src="https://img.icons8.com/color/48/000000/django.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -22,6 +26,7 @@
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
+<img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
 <img src="https://img.icons8.com/color/48/000000/webstorm.png"/>
 <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
@@ -100,8 +105,8 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 
 ## I Teach
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Web-DEV-Tutorial)](https://github.com/miladmolaee/Web-DEV-Tutorial)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Web-DEV-Tutorial)](https://github.com/miladmolaee/Web-DEV-Tutorial)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
 
 
