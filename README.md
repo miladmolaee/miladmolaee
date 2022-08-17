@@ -77,11 +77,11 @@ Some of my projects:
 I teach:
 </h1>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=CSS)](https://github.com/miladmolaee/CSS)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=HTML-CSS-JS-Tutorial)](https://github.com/miladmolaee/HTML-CSS-JS-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=CSS)](https://github.com/miladmolaee/CSS)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
 
