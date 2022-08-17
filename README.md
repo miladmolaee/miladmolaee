@@ -58,8 +58,8 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 -->  
 
 <div align="center">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladmolaee&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="miladmolaee" />
-  <img height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=miladmolaee&theme=synthwave" alt="miladmolaee" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladmolaee&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="miladmolaee" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=miladmolaee&theme=synthwave" alt="miladmolaee" />
 </div>
 
 <p align="center">
