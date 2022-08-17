@@ -79,10 +79,6 @@ I teach:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=CSS)](https://github.com/miladmolaee/CSS)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=CSS)](https://github.com/miladmolaee/CSS)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Web-DEV-Tutorial)](https://github.com/miladmolaee/Web-DEV-Tutorial)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
 
 
