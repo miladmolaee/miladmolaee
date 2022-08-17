@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 🌱 I also teach Python, Machine Learning, Git, etc. Visit my website, [hejazizo.com](https://www.hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
 - 📫 How to reach me: hejazizo@ualberta.ca
--->  
+
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladmolaee&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="miladmolaee" />
@@ -65,6 +65,27 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=miladmolaee&show_icons=true&theme=synthwave" alt="Milad Molaee :: Profile Stats" />
 </p>
+
+-->  
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+
+<p align="center">
+<a href="https://github.com/miladmolaee/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladmolaee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+ 
+<a href="https://github.com/miladmolaee">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladmolaee&theme=blueberry" width="380"/>
+</a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/miladmolaee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladmolaee&theme=tokyonight&hide_border=true"  width="520" alt="Milad Molaee"/></a>
+<a href="https://github.com/miladmolaee"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladmolaee&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Milad Molaee"/></a>
+</p>
+
 
 <h1>
 Some of my projects:
