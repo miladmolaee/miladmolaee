@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I am Milad Molaee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=miladmolaee&color=brightgreen" alt="watching_count" />
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Language, Application, and Tools</b>
 
+
+<p align="center">
 <div>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -30,6 +30,8 @@
 <img src="https://img.icons8.com/sf-regular-filled/48/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
 </div>
+<br>
+<br>
 
 
 <!--
@@ -85,18 +87,18 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
     <a href="https://github.com/miladmolaee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladmolaee&theme=tokyonight&hide_border=true"  width="520" alt="Milad Molaee"/></a>
 <a href="https://github.com/miladmolaee"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladmolaee&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Milad Molaee"/></a>
 </p>
+<br>
+<br>
 
-
-<h1>
-Some of my projects:
-</h1>
+## Some of my Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=nethub)](https://github.com/miladmolaee/nethub)
 
+<br>
+<br>
 
-<h1>
-I teach:
-</h1>
+
+## I Teach
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
 
