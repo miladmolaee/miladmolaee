@@ -44,22 +44,22 @@
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <br>
 <br>
 
 ### - Tools and Technologies
 
-<img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>   
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/material-outlined/48/00ff57/django.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="./images/sqlite.png" height=48px/>
 <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img src="https://img.icons8.com/color/48/000000/django.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/sf-regular-filled/48/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
