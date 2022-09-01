@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on some **AI**, **Automation Software**, and **Web Development** projects.
 
-- 🌱 I’m currently learning **ML, DL, Django, React, and <a href="https://bun.sh" target="_blank" rel="noopener">Bun</a>**.
+- 🌱 I’m currently learning **ML, DL, Django, React, and <a href="https://bun.sh" target="_blank">Bun</a>**.
 
 <!-- - 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
 
