@@ -161,8 +161,8 @@ Dedicated PhD student in Chemical Engineering with robust background in construc
 ## CONTACT INFORMATION
 
 **Email**: molaee193@gmail.com  
-**Website**: molaee.info  
-**LinkedIn**: [linkedin.com/in/milad-molaee](https://linkedin.com/in/milad-molaee)
+**Website**: [molaee.info](http://molaee.info)  
+**LinkedIn**: [linkedin.com/in/milad-molaee](https://linkedin.com/in/milad-molaee)  
 **Location**: Tehran, Iran  
 **Phone**: +98 912 019 6681
 
