@@ -1,12 +1,13 @@
 # Milad MOLAEE
 
-**PhD Student in Chemical Engineering | Research Scientist | R&D Manager**
+**PhD Student in Chemical Engineering | Research Scientist**
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-molaee193@gmail.com-blue?style=flat&logo=gmail)](mailto:molaee193@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-milad--molaee-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/milad-molaee/)
 [![Website](https://img.shields.io/badge/Website-molaee.info-green?style=flat&logo=web)](https://molaee.info)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe-acrobat-reader)](https://github.com/miladmolaee/latex_cv/blob/master/CV_1.1.pdf)
 [![Location](https://img.shields.io/badge/Location-Tehran%2C%20Iran-red?style=flat&logo=location)]()
 
 </div>
@@ -164,6 +165,8 @@ Dedicated PhD student in Chemical Engineering with robust background in construc
 **LinkedIn**: linkedin.com/in/milad-molaee  
 **Location**: Tehran, Iran  
 **Phone**: +98 912 019 6681
+
+**📄 Resume**: [Download PDF Resume](https://github.com/miladmolaee/latex_cv/blob/master/CV_1.1.pdf)
 
 ---
 
