@@ -1,120 +1,172 @@
-<h1 align="center">Hi, I am Milad Molaee <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
+# Milad MOLAEE
 
-<div align=center>
+**PhD Student in Chemical Engineering | Research Scientist | R&D Manager**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiladmolaee%2Fmiladmolaee&count_bg=%23A4A&title_bg=%23555555&icon=&icon_color=%23&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=microsoftoutlook&logoColor=white&color=%23199)](mailto:miladmolaee@hotmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1da1f2?labelColor=1da1f2&logo=telegram&logoColor=white&link=https://telegram.me/milad_molaee)](https://telegram.me/milad_molaee)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/milad_molaee/)](https://www.instagram.com/milad_molaee)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milad-molaee/)
-<!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/miillood)](https://twitter.com/miillood) -->
-<!-- [![Github](https://img.shields.io/github/followers/miladmolaee?label=Follow&style=social)](https://github.com/miladmolaee) -->
-</div>
+<div align="center">
 
-
-- 🔭 I’m currently working on some **AI**, **Automation Software**, and **Web Development** projects.
-
-- 🌱 I’m currently learning **ML, DL, Django, React, and <a href="https://bun.sh" target="_blank">Bun</a>**.
-
-<!-- - 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
-
-- 📝 I regularly write articles on [blog.aryasoni.com](blog.aryasoni.com) -->
-
-- 💬 Ask me about anything, I am happy to help.
-
-- 📫 Reach out to me: **miladmolaee@hotmail.com**
-
-- 😄 Fun Fact: I'm a chemical engineer, but I allways loved programming!
-
-- 📄 You can find my resume here: &ensp;&ensp;<img src="https://img.icons8.com/stickers/20/000000/hand-right.png"/> &ensp;[![Resume](https://img.shields.io/badge/My%20Resume-%100db70ed.svg?style=for-the-badgem&color=red)](https://github.com/miladmolaee/My-Resume/blob/main/resume.pdf)
-
-<br>
-<br>
-
-## <b>My Skills</b>
-<br>
-
-<div>
-
-### - Languages:
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<br>
-<br>
-
-### - Tools and Technologies
-
-<img src="https://img.icons8.com/fluency/48/000000/android-os.png"/>   
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img src="https://img.icons8.com/material-outlined/48/00ff57/django.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="./images/sqlite.png" height=48px/>
-<img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/sf-regular-filled/48/000000/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<br>
-<br>
-
-### - IDEs
-
-<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
-<img src="https://img.icons8.com/color/48/000000/atom-editor.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
-<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img src="https://img.icons8.com/color/48/000000/webstorm.png"/>
+[![Email](https://img.shields.io/badge/Email-molaee193@gmail.com-blue?style=flat&logo=gmail)](mailto:molaee193@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-milad--molaee-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/milad-molaee/)
+[![Website](https://img.shields.io/badge/Website-molaee.info-green?style=flat&logo=web)](https://molaee.info)
+[![Location](https://img.shields.io/badge/Location-Tehran%2C%20Iran-red?style=flat&logo=location)]()
 
 </div>
-<br>
-<br>
 
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## PROFESSIONAL SUMMARY
 
+Dedicated PhD student in Chemical Engineering with robust background in construction industry and materials science. Holds Bachelor's degree in Polymer Engineering from Amirkabir University of Technology and Master's degree in Chemical Engineering from Iran University of Science and Technology. Extensive experience in synthesis and characterization of advanced materials including concrete, adhesives, grout, detergents, and hydrogel materials. Currently serving as Research Scientist at Chemistry and Chemical Engineering Research Center of Iran, focusing on self-healing nanocomposite hydrogels for corrosion protection in oil and gas industry.
 
-<p align="center">
-<a href="https://github.com/miladmolaee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladmolaee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
- 
-<a href="https://github.com/miladmolaee">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladmolaee&theme=blueberry" width="380"/>
-</a>
-</p>
+---
 
-<p align="center">
-    <a href="https://github.com/miladmolaee"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miladmolaee&theme=tokyonight&hide_border=true"  width="520" alt="Milad Molaee"/></a>
-<a href="https://github.com/miladmolaee"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladmolaee&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Milad Molaee"/></a>
-</p>
-<br>
-<br>
+## EDUCATION
 
-## <b>Some of my Projects</b>
+### **PhD in Chemical Engineering** | *Sep 2022 - Present*
+**Chemistry and Chemical Research Center of Iran (CCERCI)**
+- **Dissertation**: Self-Healing Nanocomposite Hydrogel Loaded with Corrosion Inhibitor for Protection of Q235 Carbon Steel
+- **Research Focus**: Smart materials, hydrogel synthesis, corrosion protection
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=nethub)](https://github.com/miladmolaee/nethub)
+### **Master of Science in Chemical Engineering** | *Sep 2019 - Jul 2022*
+**Iran University of Science and Technology (IUST)**
+- **Thesis**: Molecular Simulation of Gas Adsorption on Single-Wall Carbon Nanotubes
+- **Relevant Coursework**: Process Design, Reactor Engineering, Molecular Simulation
 
-<br>
-<br>
+### **Bachelor of Science in Polymer Engineering** | *Sep 2013 - Jul 2018*
+**Amirkabir University of Technology (Tehran Polytechnic)**
+- **Thesis**: Modeling of Low-Temperature Water-Gas Shift Reaction in Pd/Ag Membrane Reactor
+- **Relevant Coursework**: Polymer Chemistry, Materials Science, Process Engineering
 
+---
 
-## <b>I Teach</b>
+## PROFESSIONAL EXPERIENCE
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Cpp-Tutorial)](https://github.com/miladmolaee/Cpp-Tutorial)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Python-Tutorial)](https://github.com/miladmolaee/Python-Tutorial)
+### **Research Scientist** | *Sep 2022 - Present*
+**Chemistry & Chemical Engineering Research Center of Iran (CCERCI)** | Tehran, Iran
+- Conduct advanced research on synthesis and development of smart hydrogels for industrial applications
+- Focus on anti-corrosion methods and materials for oil and gas industry
+- Collaborate on interdisciplinary projects involving materials science and chemical engineering
+- Publish research findings in peer-reviewed journals and present at international conferences
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Web-DEV-Tutorial)](https://github.com/miladmolaee/Web-DEV-Tutorial)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miladmolaee&repo=Git-Tutorial)](https://github.com/miladmolaee/Git-Tutorial)
+### **R&D Manager** | *Sep 2021 - Jun 2024*
+**Dinokoll Inc.** | Tehran, Iran
+- Managed Research and Development Center operations for nearly three years
+- Led laboratory management and quality control processes
+- Supervised formulation and development of industrial chemicals including concrete additives, adhesives, and detergents
+- Successfully scaled laboratory formulations to industrial production levels
+- Coordinated cross-functional teams across production, quality control, and sales departments
 
+---
 
+## TECHNICAL SKILLS
+
+### **Scientific & Research Skills**
+- **Materials Science**: Polymer Chemistry, Polymer Characterization, Hydrogel Synthesis
+- **Process Engineering**: Chemical Process Design, Reactor Design, Process Optimization
+- **Computational Methods**: Molecular Simulation, Molecular Dynamics, Monte Carlo Methods
+- **Data Analysis**: Design of Experiments, Statistical Analysis, Machine Learning Applications
+- **Characterization Techniques**: Advanced analytical methods for materials characterization
+
+### **Industrial & Engineering Skills**
+- **Process Development**: Formulation of Industrial Chemicals, Scale-up Operations
+- **Quality Management**: Laboratory Data Analysis, Quality Control, Industrial Standards Compliance
+- **Project Management**: R&D Project Management and Execution, Technical Documentation
+- **Industry Standards**: ISIRI, ISO, ASTM compliance and implementation
+- **Cross-functional Leadership**: Production-QC-Sales coordination
+
+### **Software & Programming**
+- **Process Simulation**: Aspen Plus, HYSYS, COMSOL Multiphysics
+- **CAD & Design**: AutoCAD, SolidWorks, 3ds Max
+- **Programming Languages**: Python, C/C++, MATLAB
+- **Molecular Simulation**: LAMMPS, Materials Studio
+- **Data Analysis**: OriginPro, Design Expert
+- **Documentation**: LaTeX, Microsoft Office Suite
+
+### **Languages**
+- **Persian**: Native proficiency
+- **English**: Professional working proficiency (B2 level)
+- **German**: Elementary proficiency (A1 level)
+
+---
+
+## PUBLICATIONS
+
+### **Journal Articles**
+1. **F. Bahmanzadgan, A. Ghaemi, M. Qasemnazhand, and M. Molaee**, "Simulation of gas adsorption on single-walled carbon nanotubes", *Scientific Reports*, vol. 15, no. 1, p. 15595, May 2025. DOI: 10.1038/s41598-025-99988-5
+
+2. **A. Ghaemi, A. Hemmati, M. Asadollahzadeh, and M. Molaee**, "Hydrodynamic behavior of standard liquid-liquid systems in Oldshue–Rushton extraction column; RSM and ANN modeling", *Chemical Engineering and Processing - Process Intensification*, vol. 168, 2021. DOI: 10.1016/j.cep.2021.108559
+
+### **Conference Proceedings**
+1. **M. Molaee, E. Jalali, M. Moshtagh, H. Farahani**, "Modeling of Water-Gas shift Membrane Reactor: Investigating the Effect of Design and Operational Parameters on Reactor Performance", *4th International Conference on Oil, Gas, and Petrochemical*, Tehran, Iran, 2017.
+
+2. **M. Molaee, M. Moshtagh, F. Bateni**, "Generation and Purification Modeling of Hydrogen by Water-Gas Shift Reaction in Low-Temperature for Fuel Cell Utilization", *4th National Hydrogen and Fuel Cell Conference*, Tehran, Iran, 2017.
+
+3. **M. Moshtagh, M. Molaee, M. Moshtagh**, "Modeling of low temperature gas-water shift reaction in packed bed membrane reactor", *4th National Conference on Chemical, Petrochemical, and Nanotechnology*, Tehran, Iran, 2016.
+
+4. **M. Moshtagh, M. Molaee, M. Moshtagh**, "Investigation of Parameters Affecting the Low-Temperature Water-Gas Shift Reaction in a Packed-Bed Membrane Reactor", *2nd International Conference on Green Engineering and Technologies for a Sustainable Future*, Tehran, Iran, 2016.
+
+---
+
+## RESEARCH PROJECTS
+
+### **Current Research**
+- **Self-Healing Nanocomposite Hydrogels**: Development of advanced materials for corrosion protection in oil and gas industry
+- **Smart Hydrogel Systems**: Synthesis and characterization of pH-sensitive and environmentally responsive materials
+- **Anticorrosion Coatings**: Hydrogel-based protective coatings for industrial applications
+
+### **Completed Projects**
+- **Molecular Simulation Studies**: Gas adsorption behavior on carbon nanotubes using Monte Carlo methods
+- **Membrane Reactor Modeling**: Optimization of water-gas shift reaction for hydrogen production
+- **Industrial Chemical Formulation**: Development of high-performance concrete additives and adhesives
+- **Calcium Formate Synthesis**: Industrial-scale production and characterization
+
+---
+
+## PROFESSIONAL CERTIFICATIONS
+
+### **Scientific & Technical Training**
+- **Sustainability and Energy**: Introduction to Sustainability (University of Illinois), Renewable Energy (University of Colorado Boulder)
+- **Process Engineering**: Chemical Hazards and Process Safety (University of California), Design of Experiments (Arizona State University)
+- **Programming & Data Science**: Python Programming (Pytopia), Machine Learning (Pytopia), Multi-Objective Optimization
+- **Corrosion Science**: Protecting the World: Introducing Corrosion Science and Engineering (University of Manchester)
+
+### **Engineering Software**
+- **Process Simulation**: Complete courses in Aspen HYSYS and Aspen Plus
+- **CAD & Design**: AutoCAD Complete Course, AutoCAD Plant 3D, COMSOL Multiphysics
+- **Project Management**: Engineering Project Management (Rice University)
+- **Oil & Gas Industry**: Industry Operations and Markets (Duke University), Process Safety and Environmental Care
+
+---
+
+## NOTABLE ACHIEVEMENTS
+
+- **Research Leadership**: Successfully managed R&D operations at Dinokoll Inc. for 3 years
+- **Industrial Innovation**: Developed and scaled multiple chemical formulations from laboratory to industrial production
+- **Academic Excellence**: Published research in high-impact scientific journals
+- **Conference Presentations**: Presented research findings at multiple national and international conferences
+- **Interdisciplinary Expertise**: Combined chemical engineering principles with materials science and computational methods
+
+---
+
+## RESEARCH INTERESTS
+
+- **Advanced Materials**: Smart hydrogels, nanocomposite materials, self-healing systems
+- **Corrosion Protection**: Anti-corrosion coatings and inhibitors for industrial applications  
+- **Process Optimization**: Chemical process design and optimization using computational methods
+- **Molecular Simulation**: Applications of molecular dynamics and Monte Carlo methods in chemical engineering
+- **Sustainable Engineering**: Green chemistry and environmentally friendly industrial processes
+
+---
+
+## CONTACT INFORMATION
+
+**Email**: molaee193@gmail.com  
+**Website**: molaee.info  
+**LinkedIn**: linkedin.com/in/milad-molaee  
+**Location**: Tehran, Iran  
+**Phone**: +98 912 019 6681
+
+---
+
+<div align="center">
+<em>Available for research collaboration, industrial consulting, and academic opportunities</em>
+</div>
