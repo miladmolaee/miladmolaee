@@ -4,11 +4,12 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-molaee193@gmail.com-blue?style=flat&logo=gmail)](mailto:molaee193@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-milad--molaee-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/milad-molaee/)
-[![Website](https://img.shields.io/badge/Website-molaee.info-green?style=flat&logo=web)](https://molaee.info)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe-acrobat-reader)](https://github.com/miladmolaee/latex_cv/blob/master/CV_1.3.pdf)
-[![Location](https://img.shields.io/badge/Location-Tehran%2C%20Iran-red?style=flat&logo=location)]()
+[![Email](https://img.shields.io/badge/Email-molaee193@gmail.com-0044B5?style=flat&logo=gmail)](mailto:molaee193@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-milad--molaee-ff4466?style=flat&logo=linkedin)](https://www.linkedin.com/in/milad-molaee/)
+[![Website](https://img.shields.io/badge/Website-molaee.info-55ff44?style=flat&logo=web)](https://molaee.info)
+[![Location](https://img.shields.io/badge/Location-Tehran%2C%20Iran-9f4ff7?style=flat&logo=location)]()
+[![Resume](https://img.shields.io/badge/Resume-PDF-000000?style=flat&logo=adobe-acrobat-reader)](https://github.com/miladmolaee/latex_cv/blob/master/CV_1.3.pdf)
+
 
 </div>
 
@@ -161,10 +162,13 @@ Dedicated PhD student in Chemical Engineering with robust background in construc
 ## CONTACT INFORMATION
 
 **Email**: molaee193@gmail.com  
+**Phone**: +98 912 019 6681  
+
 **Website**: [molaee.info](http://molaee.info)  
 **LinkedIn**: [linkedin.com/in/milad-molaee](https://linkedin.com/in/milad-molaee)  
+**Researchgate**: [researchgate.net/profile/Milad-Molaee](https://www.researchgate.net/profile/Milad-Molaee)  
+
 **Location**: Tehran, Iran  
-**Phone**: +98 912 019 6681
 
 **📄 Resume**: [Download PDF Resume](https://github.com/miladmolaee/latex_cv/blob/master/CV_1.3.pdf)
 
